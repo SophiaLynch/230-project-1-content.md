@@ -27,5 +27,26 @@ The graphics in Deadly Dress-up are extremely cartoony and stylized; they fit th
 * Time: Players have a limited amount of time to make each outfit. If the time runs out, they need to start the game over as a new zombie.
 * Choice: It’s important for a player to make sure they pay attention to what style the Demon Lord requests; not all clothing is the same.
 
+### Controls
+* Mouse: Players click and drag clothing options to their zombie character. They also use the mouse to click menu options and through any dialogue that may come up.
+
+### Teaching the Game
+At the start of the game, there would be a basic level informing players of how it is to be played. They would need to make an outfit with a very limited, and clear selection of clothing styles that are extremely easy to tell apart.
+
+### Player Learning
+The player needs to learn about basic fashion elements and styles. What’s boho-chic? Goth? Lolita? What’s the difference between leggings and tights? They need to differentiate between different requested clothing styles, since not too many people actually know these things. So, the Demon Lord could request for the zombie character to dress in Gothic clothing. The clothing options may include both gothic style items, and emo. But if the player selects mostly emo items, then they fail the level. If they select mostly gothic items with a few that are ambiguous, then they pass. The game becomes increasingly more difficult with each level, but that’s in hopes that the player learns more about clothing styles as time moves on.
+
+## Screenshots
+
+## Other
+It always frustrates me when people think two fashion styles are the same. Sure, some are similar, but there are so many different styles with their own individual flair. That was my inspiration for the game.
+
+## About the Developer
+* Name: Sophia Lynch
+* Major: Game Design and Development
+* Minor: Journalism
+* Year: Sophomore
+* Skill set: Programming, graphic design, illustration | C#, Python, Maya, Unity, Ren’Py, Adobe Suite, Paint Tool Sai, Audacity, Russian, German.
+
 
 
