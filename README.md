@@ -5,9 +5,9 @@ It’s the Dark Souls of dress-up games, and the evil cousin of Style Savvy! Dea
 
 ## Genre
 While it’s difficult to categorize a game as complex as Deadly Dress-up, it likely would fit into these categories:
-*Casual
-*Simulation
-*Puzzle
-*Dating Sim
-*Time Management
+* Casual
+* Simulation
+* Puzzle
+* Dating Sim
+* Time Management
 
